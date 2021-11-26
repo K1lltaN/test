@@ -1,8 +1,14 @@
 body {
   background-color: rebeccapurple;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .Home {
   font-size: 64px;
   color: red;
-  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.zag{
+  font-size: 72px;
+  color: blue;
+  background-color: yellow;
 }
